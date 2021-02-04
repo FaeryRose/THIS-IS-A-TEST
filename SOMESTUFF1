@@ -6,6 +6,7 @@
 
 css
 {
+   font-family: arial;
    color: yellow;
    background: red;
 }
