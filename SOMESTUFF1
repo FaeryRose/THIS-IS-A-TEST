@@ -1,5 +1,5 @@
 <docutype html>
-<link type="text/css" rel="justsomestuff2.css" href="justsomestuff2.css/main.css"/>
+<link rel=“stylesheet” type=“text/css” href=“styles.css”>
 <html>
 <h1>Testing</h1>
 <b>
